@@ -1,0 +1,22 @@
+﻿<Window x:Class="ClosestPair.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClosestPair"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1200">
+    <StackPanel>
+        <Grid Height="600">
+            <Canvas Name="canvas1" Background="Beige" Width="1100" Height="500"/>
+        </Grid>
+        <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Center">
+            <Button Width="100" Content="생성" Click="Button_Click"/>
+            <TextBlock Width="50"/>
+            <Button Width="100" Content="찾기" Click="Button_Click_1"/>
+            <TextBlock Width="50"/>
+            <Button Width="100" Content="분할정복" Click="Button_Click_2"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

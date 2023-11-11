@@ -1,0 +1,15 @@
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\bin\Debug\SortWithGraph.exe.config
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\bin\Debug\SortWithGraph.exe
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\bin\Debug\SortWithGraph.pdb
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\A005_SortWithGraph.csproj.AssemblyReference.cache
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\MainWindow.g.cs
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\App.g.cs
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\SortWithGraph_MarkupCompile.cache
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\SortWithGraph_MarkupCompile.lref
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\MainWindow.baml
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\SortWithGraph.g.resources
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\SortWithGraph.Properties.Resources.resources
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\A005_SortWithGraph.csproj.GenerateResource.cache
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\A005_SortWithGraph.csproj.CoreCompileInputs.cache
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\SortWithGraph.exe
+C:\Users\insu4\Desktop\Algorithm2021-1-main\A005_SortWithGraph\SortWithGraph\obj\Debug\SortWithGraph.pdb
